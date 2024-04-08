@@ -1,10 +1,7 @@
  ### Hi 👋,
- ##### Yatilabs 
+ ##### Ankit
 * * *
- Yati Labs is a true development partner whose mission is to design, build & innovate for your business.
-
-## :wave: Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yatilabs/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yatilabs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/yatilabs/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/yatilabs/about/)
+ We are a true development partner whose mission is to design, build & innovate for your business.
 
 
 ## :briefcase: Technical Skills
