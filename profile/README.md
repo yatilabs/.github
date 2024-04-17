@@ -1,7 +1,19 @@
  ### Hi 👋,
- ##### Ankit
+ #####
 * * *
- We are a true development partner whose mission is to design, build & innovate for your business.
+Seasoned Full Stack Web & Mobile App developer with more than 11 years of industry experience in designing and developing digital products & experiences. I have helped startups, entrepreneurs, small and medium business alike in realising their ideas to life.
+
+With immense focus on user experience, scalability, security, robustness & code reusability, I have designed & developed mobile and web apps that have been useful, purposeful for the masses, helped clients raise capital and generate revenues.
+
+My primary objective is not only to provide professional services but also to become your trusted partner. I welcome discussing all your queries before I begin the work on your project/s and what we can do together to ensure win-win situation for both of us.
+
+Expertise -
+
+✅ Full Stack Web App Development: Proficient in React.js, Next.js, Node.js, Laravel, Python, Django, Flask, Tailwind, Vue.js, MySQL, SQlite, MongoDB, PostgreSQL, Supabase
+
+✅ Mobile App Development: Skilled in React Native, Swift, Kotlin, Flutter, Capacitor js, Flutter Web & Flutter Flow
+
+✅ DevOps: I design scalable architectures with a foundation in Serverless computing, employing Docker/Kubernetes, AWS, AWS Lambda, AWS CloudFront, Vercel, CloudFlare, CloudFormation, DigitalOcean, and the Server-less framework.
 
 
 ## :briefcase: Technical Skills
